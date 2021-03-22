@@ -1,0 +1,17 @@
+/home/larami100/catkin_ws/install/_setup_util.py
+/home/larami100/catkin_ws/install/env.sh
+/home/larami100/catkin_ws/install/setup.bash
+/home/larami100/catkin_ws/install/local_setup.bash
+/home/larami100/catkin_ws/install/setup.sh
+/home/larami100/catkin_ws/install/local_setup.sh
+/home/larami100/catkin_ws/install/setup.zsh
+/home/larami100/catkin_ws/install/local_setup.zsh
+/home/larami100/catkin_ws/install/.rosinstall
+/home/larami100/catkin_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/larami100/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/larami100/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/larami100/catkin_ws/install/share/beginner_tutorials/package.xml
+/home/larami100/catkin_ws/install/lib/pkgconfig/using_markers.pc
+/home/larami100/catkin_ws/install/share/using_markers/cmake/using_markersConfig.cmake
+/home/larami100/catkin_ws/install/share/using_markers/cmake/using_markersConfig-version.cmake
+/home/larami100/catkin_ws/install/share/using_markers/package.xml
