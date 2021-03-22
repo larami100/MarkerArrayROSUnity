@@ -1,2 +1,2 @@
 # MarkerArrayROSUnity
-Unity application that reads MarkerArray ROS messages and display them
+Unity application that reads MarkerArray ROS messages and displays them
