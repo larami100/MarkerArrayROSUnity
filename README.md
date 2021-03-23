@@ -1,5 +1,5 @@
 # MarkerArrayROSUnity
-Unity application that reads ROS MarkerArray messages and displays them
+Unity application that reads ROS MarkerArray messages and displays them.
 
 The project consists in a ROS application that sends a cube, a sphere, a cylinder and a turtle mesh to a Unity project in order to display them.
 
