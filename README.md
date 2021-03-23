@@ -20,7 +20,7 @@ Unity 2019.4.22f1 version is required.
 4. With a new terminal window, source the package with the instruction:
    `source /catkin_ws/devel/setup.bash` 
 
-5. With a new terminal window, run using_markers package:
+5. In the same terminal window of step 4, run using_markers package:
    `rosrun using_markers basic_shapes`
 
 6. With a new terminal window, run ROSBridge server:
