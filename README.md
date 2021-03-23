@@ -19,7 +19,7 @@ The ROS application was developed in C++ in the source file:
 4. Initialize ROS by executing `roscore` command.
 
 5. With a new terminal window, run using_markers package:
-   `rosrun using_markers basic_shapes``
+   `rosrun using_markers basic_shapes`
 
 6. With a new terminal window, run ROSBridge server:
    `roslaunch rosbridge_server rosbridge_websocket.launch`
