@@ -26,7 +26,7 @@ Unity 2019.4.22f1 version is required.
 6. With a new terminal window, run ROSBridge server:
    `roslaunch rosbridge_server rosbridge_websocket.launch`
    
-7. Run `ifconfig` command in Terminal and copy IP address.
+7. With a new terminal window, run `ifconfig` command in Terminal and copy IP address.
    
 8. Open shapesArrayMarker Unity project.
 
