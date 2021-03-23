@@ -8,6 +8,8 @@ The ROS application was developed in C++ in the source file:
 
 Unity 2019.4.22f1 version is required. 
 
+Developed using ROS Noetic and Ubuntu 20.04
+
 
 ## Setup steps:
 
