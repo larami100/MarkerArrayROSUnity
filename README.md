@@ -11,7 +11,7 @@ Unity 2019.4.22f1 version is required.
 
 ## Setup steps:
 
-1. In Linux Terminal, go to directory /catkin_ws/src/using_markers/
+1. In Linux Terminal, go to directory /catkin_ws/
 
 2. Inside that directory, run `catkin_make` command to build using_markers package.
 
