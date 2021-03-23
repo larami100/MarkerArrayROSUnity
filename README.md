@@ -13,12 +13,12 @@ Unity 2019.4.22f1 version is required.
 
 1. In Linux Terminal, go to directory /catkin_ws/
 
-2. Inside that directory, run `catkin_make` command to build using_markers package.
+2. Inside that directory, run `catkin_make` command to build using_markers package. 
 
-3. Source the package with the instruction:
-   `source /catkin_ws/devel/setup.bash`  
+3. Initialize ROS by executing `roscore` command.
 
-4. Initialize ROS by executing `roscore` command.
+4. With a new terminal window, source the package with the instruction:
+   `source /catkin_ws/devel/setup.bash` 
 
 5. With a new terminal window, run using_markers package:
    `rosrun using_markers basic_shapes`
