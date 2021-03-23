@@ -6,6 +6,8 @@ The project consists in a ROS application that sends a cube, a sphere, a cylinde
 The ROS application was developed in C++ in the source file:
 /catkin_ws/src/using_markers/src/basic_shapes.cpp
 
+Unity 2019.4.22f1 version is required. 
+
 
 ## Setup steps:
 
@@ -26,7 +28,7 @@ The ROS application was developed in C++ in the source file:
    
 7. Run `ifconfig` command in Terminal and copy IP address.
    
-8. Open shapesArrayMarker Unity project (2019.4.22f1 version).
+8. Open shapesArrayMarker Unity project.
 
 9. In Hierarchy section, select ROSConnector Game Object. 
 
